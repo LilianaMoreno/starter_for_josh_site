@@ -1,0 +1,41 @@
+body { font-size:16px;
+    font-family: arial, sans-serif;
+}
+
+.navbar {font-size:0.875em;}
+
+a {color:#a99c9c}
+
+a.hover {color:#ed7d1e;}
+
+.orange {color:darkorange;
+font-size:2.0em;}
+
+.josh {/*color:darkorange; */
+    font-size:2.0em;
+}
+
+.navbar-toggle .iconbar {background-color:white;}
+
+.herobg {background: url(images/header-bg.jpg);
+background-size:cover;}
+
+.navbar-inverse {
+    background-color:transparent;
+    border-color:transparent; }
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color: transparent;}
+
+.herobg h1 {
+    float:right;
+    color:#ffff;
+    width:341px;
+    font-size:7.1em;
+    letter-spacing: -10px;
+    font-weight:800;
+    line-height:75%;
+    margin-top:140px;
+    text-align:right;
+    padding-bottom:10%;
+}
