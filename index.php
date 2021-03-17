@@ -31,7 +31,7 @@
               
                             <div class="col-md-4 article-cent">
                                 
-                     <img class="img-responsive" alt="model" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg.jpg">
+                     <img class="img-responsive" alt="model" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg">
                                 
                   <h4> A MODEL </h4>
                   <p class="date"> 12 December 2020</p>
@@ -42,7 +42,7 @@
               
                             <div class="col-md-4 article-cent">
                                 
-                    <img class="img-responsive" alt="Games design" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg.jpg">
+                    <img class="img-responsive" alt="Games design" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg">
                                 
                   <h4> A GAMES DESIGN</h4>
                   <p class="date"> 12 December 2020</p>
