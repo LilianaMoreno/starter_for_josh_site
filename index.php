@@ -32,7 +32,7 @@ wp_reset_query();?>
               </div>
               <div class="col-md-4 article-cent">
                   
-                  <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg">
+                  <img class="img-responsive" alt="portrait" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/portrait-image.jpg">
                 
                   <h4> A PORTRAIT</h4>
                   <p class="date"> 12 December 2020</p>
@@ -54,7 +54,7 @@ wp_reset_query();?>
               
                             <div class="col-md-4 article-cent">
                                 
-                    <img class="img-responsive" alt="Games design" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/article-image.jpg">
+                    <img class="img-responsive" alt="Games design" src="http://206.189.45.97/~mesh18/wp-content/themes/starter_for_josh_site/images/games-design-image.jpg">
                                 
                   <h4> A GAMES DESIGN</h4>
                   <p class="date"> 12 December 2020</p>
