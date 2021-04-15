@@ -56,15 +56,11 @@
         'link_class' => "nav-link",
         )); ?>
 </ul>
-
-        
-        
-        
     </div>
   </div>
 </nav>
 
-          <div class="container"> <!--div that holds the content in the middle of the page-->
+          <div class="container animate__animated animate__fadeInRight"> <!--div that holds the content in the middle of the page-->
           <h1> Games Design For the Future </h1> <!-- the main tag line-->
           </div> <!-- container-->
       
