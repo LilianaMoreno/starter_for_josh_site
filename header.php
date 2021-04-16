@@ -34,7 +34,7 @@
 </head>
 
   <body>
-        <header class="container-fluid herobg"> <!-- div for the main image that stretches to the edge of the page-->
+<header class="container-fluid herobg"<?php if ( get_field(' headerbackgroundimage ') ) { echo 'style="background: url(' . get_field(' headerbackgroundimage ') . ')"'; } ?>>
                 
           <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -61,7 +61,7 @@
 </nav>
 
           <div class="container animate__animated animate__fadeInRight"> <!--div that holds the content in the middle of the page-->
-          <h1> Games Design For the Future </h1> <!-- the main tag line-->
+<h1><?php the_field('maintagline'); ?></h1>
           </div> <!-- container-->
       
       </header>
