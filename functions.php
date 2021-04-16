@@ -24,7 +24,14 @@ if($args->list_item_class){$classes[] = $args->list_item_class;
                           }return $classes;
     }
 add_filter('nav_menu_css_class', 'add_menu_list_item_class', 1, 3);
- ?>
+?>
+
+<?php
+	if ( get_field(' headerbackgroundimage') ) {
+		echo 'style="background: url(' . get_field(' headerbackgroundimage') . ')"';
+	}
+?>
+
 
 <?php
 add_action('wp_enqueue_scripts', 'sk-wow-init-in-footer');
