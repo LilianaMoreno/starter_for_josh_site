@@ -61,7 +61,10 @@
 </nav>
 
           <div class="container animate__animated animate__fadeInRight"> <!--div that holds the content in the middle of the page-->
-<h1><?php the_field('maintagline'); ?></h1>
+              
+<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('main_tag') ) : 
+endif; ?>
+
           </div> <!-- container-->
       
       </header>
